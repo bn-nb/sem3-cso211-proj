@@ -1,0 +1,109 @@
+\begin{thebibliography}{1}
+\bibliographystyle{IEEEtran}
+
+\bibitem {ref1}
+{Karan Goel, "Our Journey towards Data–Centric AI: A Retrospective", Available: \\ \url{http://ai.stanford.edu/blog/data-centric-ai-retrospective/, 15th September 2021. }}
+
+\bibitem {ref2}
+{Christopher Ré, Feng Niu, Pallavi Gudipati, Charles Srisuwananukorn, "Overton: A Data System for Monitoring and Improving Machine-Learned Products", proc. Of 10th Annual Conference on Innovative Data Systems Research (CIDR), 12th – 15th January 2020. }
+
+\bibitem {ref3}
+{Nithya Sambasivan et. al., "Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI", proc. of CHI Conference on Human Factors in Computing Systems (CHI 2021), 8th – 13th, 2021. Available: \\ \url{https://doi.org/10.1145/3411764.3445518 }}
+
+\bibitem {ref4}
+{Andrew Ng, "MLOps: From Model – centric to Data – centric AI", 35th Conference on Neural Information Systems (NeurIPS), 14th December 2021. }
+
+\bibitem {ref5}
+{Andrew Ng, "Data-centric AI Development: A Critical Shift in Perspective", Available: \\ \url{https://read.deeplearning.ai/thebatch/data-centric-ai-development-part-2-a-critical-shift-inperspective/ , 2021.}}
+
+\bibitem {ref6}
+{Fabiana Clemente, "From Model-centric to Data-centric: A new paradigm for AI Development", Available: \\ \url{https://towardsdatascience.com/from-model-centric-to-datacentric-4beb8ef50475, 30th March 2021.}}
+
+\bibitem {ref7}
+{A. Ng. (2021) A chat with andrew on mlops: From modelcentric to data-centric ai. DeepLearningAI. [Online]. Available: \\ \url{https://www.youtube.com/watch?v=06-AZXmwHjot=1607s }}
+
+\bibitem {ref8}
+{D. Berscheid. (2021) "Data-centric machine learning: Making customized ml solutions production-ready." Dida.Do. [Online]. Available: \\ \url{https://dida.do/blog/data-centric-machine-learning }}
+
+\bibitem {ref9}
+{A. Ng. (2021) "AI doesn’t have to be too complicated or expensive for your business." Harvard Business Review. [Online]. Available: \\ \url{https://hbr.org/2021/07/ai-doesnt-have-to-be-too-complicated or-expensive-for-your-business}}
+
+\bibitem {ref10}
+{R. S. Sutton and A. G. Barto, Reinforcement learning: An introduction. MIT press, 2018. }
+
+\bibitem {ref11}
+{D. Silver, J. Schrittwieser, K. Simonyan, I. Antonoglou, A. Huang, A. Guez, T. Hubert, L. Baker, M. Lai, A. Bolton et al., "Mastering the game of go without human knowledge," nature, vol. 550, no. 7676, pp. 354–359, 2017. }
+
+\bibitem {ref12}
+{O. H. Hamid and J. Braun, "Reinforcement learning and attractor neural network models of associative learning," in International Joint Conference on Computational Intelligence. Springer, 2019, pp. 327– 349. }
+
+\bibitem {ref13}
+{A. Nair, B. McGrew, M. Andrychowicz, W. Zaremba, and P. Abbeel, "Overcoming exploration in reinforcement learning with demonstrations," in 2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018, pp. 6292–6299. }
+
+\bibitem {ref14}
+{T. M. Moerland, J. Broekens, and C. M. Jonker, "Emotion in reinforcement learning agents and robots: a survey," Machine Learning, vol. 107, no. 2, pp. 443–480, 2018}
+
+\bibitem {ref15}
+{Neoklis Polyzotis, Matei Zaharia, "What can Data-Centric AI Learn from Data and ML Engineering?," arXiv preprint arXiv:2112.06439 (2021). Available: \\ \url{https://arxiv.org/pdf/2112.06439.pdf}}
+
+\bibitem {ref16}
+{Steven Euijong Whang, Yuji Roh, Hwanjun Song, Jae-Gil Lee, "Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective," arXiv preprint arXiv:2112.06409 (2021). Available: \\ \url{https://arxiv.org/pdf/2112.06409.pdf}}
+
+\bibitem {ref17}
+{Mustafa Hajij, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, and Aldo Guzman, "Data-centric AI Requires Rethinking Data Notion," arXiv preprint arXiv:2110.02491 (2021). Available: \\ \url{https://arxiv.org/pdf/2110.02491.pdf}}
+
+\bibitem {ref18}
+{Shen Wang, Mehdi Nikfar, Joshua C. Agar, and Yaling Liu, "Stacked Generative Machine Learning Models for Fast Approximations of Steady-State Navier-Stokes Equations," arXiv preprint arXiv:2112.06419 (2021). Available: \\ \url{https://arxiv.org/pdf/2112.06419.pdf}}
+
+\bibitem {ref19}
+{Sabri Eyuboglu, Bojan Karlaš, Christopher Ré, Ce Zhang, and James Zou.2022. "dcbench: A Benchmark for Data-Centric AI Systems,". Available: \\ \url{https://dl.acm.org/doi/pdf/10.1145/3533028.3533310}}
+
+\bibitem {ref20}
+{Mark Mazumder, Colby Banbury, Xiaozhe Yao. 20 July 2022. "Dataperf:Benchmarks for Data-Centric AI Development.". Available: \\ \url{https://arxiv.org/pdf/2207.10062.pdf . }}
+
+\bibitem {ref21}
+{Hima Patel, Shanmukha Guttula, Ruhi Sharma Mittal, Naresh Manwani, Laure Berti-Equille, and Abhijit Manatkar. 2022. "Advances in Exploratory Data Analysis, Visualisation and Quality for Data Centric AI Systems,". Available: \\ \url{https://dl.acm.org/doi/10.1145/3534678.3542604}}
+
+\bibitem {ref22}
+{LJ MIRANDA, Jul 30, 2021, "Towards Data-centric Machine Learning,". Available: \\ \url{https://ljvmiranda921.github.io/notebook/2021/07/30/data-centric-ml/ .}}
+
+\bibitem {ref23}
+{Dr. Chetana Hegde, "Anomaly Detection In Time Series Data Using Data- Centric Ai", 2022 IEEE International Conference on Electronics, Computing and Communication Technologie, Available:\\ \url{https://ieeexplore.ieee.org/document/9865824}}
+
+\bibitem {ref24}
+{Oussama H. Hamid, "From Model-centric To Data-centric Ai: A Paradigm Shift Or Rather A Complementary Approach", 2022 8th International Conference on Information Technology Trends (ITT), Available:\\ \url{https://ieeexplore.ieee.org/document/9863935}}
+
+\bibitem {ref25}
+{Irena Atova, Kwang-Cheng Chen, Ahmed E.Kamal, Malamati Louta, "Data Science And Artificial Intelligence", June 2020 IEEE Communications Magazine, Available:\\ \url{https://www.academia.edu/49186370/Data_Science_and_Artificial_Intelligence}}
+
+\bibitem {ref26}
+{Yiqi Zhong, Lei Wu, Xianming Liu, Junjun Jiang,"Exploiting The Potential Of Datasets: A Data-centric Approach For Model Robustness", 10 Mar 2022, Available:\\ \url{https://arxiv.org/abs/2203.05323}}
+
+\bibitem {ref27}
+{Guo Ye, Jiayi Wang, Han Liu, 2021:"RoboFlow: a Data-centric Workflow Management System for Developing AI-enhanced Robots" Blue Sky Papers, 5th Conference on Robot Learning (CoRL 2021), London, UK. Available: \\ \url{https://proceedings.mlr.press/v164/lin22c/lin22c.pdf}}
+
+\bibitem {ref28}
+{Anne Gerdes (2022) "A participatory data-centric approach to AI Ethics by Design", Applied Artificial Intelligence, 36:1, 2009222, Available: \\ \url{https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.2009222?needAccess=true}}
+
+\bibitem {ref29}
+{Huan Hu, Yajie Cui, Zhaoxiang Liu,  Shiguo Lian "Data-Centric AI Paradigm Based on Application-Driven Fine-Grained Dataset Design" Available: \\ \url{https://arxiv.org/ftp/arxiv/papers/2209/2209.09449.pdf}}
+
+\bibitem {ref30}
+{Lora Aroyo, Matthew Lease, Praveen Paritosh, Mike Schaekermann "Data Excellence for AI: Why Should You Care" Available: \\ \url{https://arxiv.org/ftp/arxiv/papers/2111/2111.10391.pdf}}
+
+\bibitem {ref31}
+{Mohammad Motamedi, Nikolay Sakharnykh, Tim Kaldewey, 29 Oct 2021: "A Data-Centric Approach for Training Deep Neural Networks with Less Data" Available: \\ \url{https://arxiv.org/pdf/2110.03613.pdf}}
+
+\bibitem {ref32}
+{Daniel Alvarez-Coello, Daniel Wilms, Adnan Bekan, Jorge Marx Gómez. 2021: "Towards a Data-Centric Architecture in the Automotive Industry", Elsevier B.V. Available: \\ \url{https://reader.elsevier.com/reader/sd/pii/S1877050921002581}}
+
+\bibitem {ref33}
+{J. Zico Kolter , 2019: "Provably robust deep learning" Available: \\ \url{https://www.cs.cmu.edu/~cliu6/16-883/robust_deep_learning.pdf}}
+
+\bibitem {ref34}
+{Hasan Kurban, Mustafa Kurban, Mehmet M. Dalkilic, 24 August 2022: "Rapidly predicting Kohn–Sham total energy using data centric AI", Scientifc Reports Available: \\ \url{https://www.nature.com/articles/s41598-022-18366-7}}
+
+\bibitem {ref35}
+{Nabeel Seedat, Fergus Imrie, Mihaela van der Schaar, 09 Nov 2022: "DC-Check: A Data-Centric AI checklist to guide the development of reliable machine learning systems" Available: \\ \url{https://arxiv.org/pdf/2211.05764.pdf}}
+
+\end{thebibliography}
